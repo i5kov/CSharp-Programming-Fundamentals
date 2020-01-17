@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 class DivisibleBy3
 {
     static void Main()
@@ -8,7 +9,7 @@ class DivisibleBy3
         {
             if (i % 3 == 0)
             {
-                Console.WriteLine(aaaasadsad);
+                Console.WriteLine(i);
             }
         }
     }
