@@ -29,17 +29,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 Even Number", "12 Even N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 Debug the Code - Holidays Between Two Dates", "13 Debug the Code - Holidays Between Two Dates\13 Debug the Code - Holidays Between Two Dates.csproj", "{E6108C74-A3CD-4631-993A-57A50173B96B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 01 Ages", "Exercise 01 Ages\Exercise 01 Ages.csproj", "{16904BBB-9DF9-4C07-B1EA-77FAC2B46F8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 01 Ages", "Exercise 01 Ages\Exercise 01 Ages.csproj", "{16904BBB-9DF9-4C07-B1EA-77FAC2B46F8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 02 Division", "Exercise 02 Division\Exercise 02 Division.csproj", "{1714D1B4-2CCA-46FD-90FA-C2ABAA0B7ECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 02 Division", "Exercise 02 Division\Exercise 02 Division.csproj", "{1714D1B4-2CCA-46FD-90FA-C2ABAA0B7ECA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 03 Vacation", "Exercise 03 Vacation\Exercise 03 Vacation.csproj", "{2BA16A55-19A2-4CDC-BAFB-8715F1B294C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 03 Vacation", "Exercise 03 Vacation\Exercise 03 Vacation.csproj", "{2BA16A55-19A2-4CDC-BAFB-8715F1B294C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 04 Print and Sum", "Exercise 04 Print and Sum\Exercise 04 Print and Sum.csproj", "{B7015B59-3E1D-4018-90BB-B76877C46EB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 04 Print and Sum", "Exercise 04 Print and Sum\Exercise 04 Print and Sum.csproj", "{B7015B59-3E1D-4018-90BB-B76877C46EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 05 Login", "Exercise 05 Login\Exercise 05 Login.csproj", "{943CB045-9C97-4E77-ACF2-22382FAFF43F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 05 Login", "Exercise 05 Login\Exercise 05 Login.csproj", "{943CB045-9C97-4E77-ACF2-22382FAFF43F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 06 Strong Number", "Exercise 06 Strong Number\Exercise 06 Strong Number.csproj", "{CE1BE690-D0D4-42CF-94A8-271A2A71B260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 06 Strong Number", "Exercise 06 Strong Number\Exercise 06 Strong Number.csproj", "{CE1BE690-D0D4-42CF-94A8-271A2A71B260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 10 Rage Expenses", "Exercise 10 Rage Expenses\Exercise 10 Rage Expenses.csproj", "{C8BEE7E4-F309-49B7-B12A-2378D854CC27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 09 Padawan Equipment", "Exercise 09 Padawan Equipment\Exercise 09 Padawan Equipment.csproj", "{8CD88F90-AB99-4EEE-B8FA-F1A8F79194F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 08 Triangle of Numbers", "Exercise 08 Triangle of Numbers\Exercise 08 Triangle of Numbers.csproj", "{3B30D6F9-CD97-4DA8-90A4-DB26E3DDD34D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{CE1BE690-D0D4-42CF-94A8-271A2A71B260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE1BE690-D0D4-42CF-94A8-271A2A71B260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE1BE690-D0D4-42CF-94A8-271A2A71B260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BEE7E4-F309-49B7-B12A-2378D854CC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BEE7E4-F309-49B7-B12A-2378D854CC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BEE7E4-F309-49B7-B12A-2378D854CC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BEE7E4-F309-49B7-B12A-2378D854CC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD88F90-AB99-4EEE-B8FA-F1A8F79194F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD88F90-AB99-4EEE-B8FA-F1A8F79194F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD88F90-AB99-4EEE-B8FA-F1A8F79194F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD88F90-AB99-4EEE-B8FA-F1A8F79194F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B30D6F9-CD97-4DA8-90A4-DB26E3DDD34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B30D6F9-CD97-4DA8-90A4-DB26E3DDD34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B30D6F9-CD97-4DA8-90A4-DB26E3DDD34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B30D6F9-CD97-4DA8-90A4-DB26E3DDD34D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
