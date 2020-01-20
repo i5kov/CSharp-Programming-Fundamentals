@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Convert Meters to Kilometers", "01 Convert Meters to Kilometers\01 Convert Meters to Kilometers.csproj", "{ACB58AFC-3008-415F-87CB-D4B46F77A7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Pounds to Dollars", "02 Pounds to Dollars\02 Pounds to Dollars.csproj", "{E60C6562-0BD7-45DE-BEB0-32636C28C82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Exact Sum of Real Numbers", "03 Exact Sum of Real Numbers\03 Exact Sum of Real Numbers.csproj", "{D19A7C9C-48F1-4968-980D-CDF12401773D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Centuries to Minutes", "04 Centuries to Minutes\04 Centuries to Minutes.csproj", "{A010C859-0B61-411A-9983-932577D03DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Special Numbers", "05 Special Numbers\05 Special Numbers.csproj", "{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB58AFC-3008-415F-87CB-D4B46F77A7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB58AFC-3008-415F-87CB-D4B46F77A7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB58AFC-3008-415F-87CB-D4B46F77A7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB58AFC-3008-415F-87CB-D4B46F77A7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60C6562-0BD7-45DE-BEB0-32636C28C82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60C6562-0BD7-45DE-BEB0-32636C28C82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60C6562-0BD7-45DE-BEB0-32636C28C82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60C6562-0BD7-45DE-BEB0-32636C28C82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19A7C9C-48F1-4968-980D-CDF12401773D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19A7C9C-48F1-4968-980D-CDF12401773D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19A7C9C-48F1-4968-980D-CDF12401773D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19A7C9C-48F1-4968-980D-CDF12401773D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A010C859-0B61-411A-9983-932577D03DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A010C859-0B61-411A-9983-932577D03DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A010C859-0B61-411A-9983-932577D03DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A010C859-0B61-411A-9983-932577D03DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2567B5E-ABB5-426F-A1B1-C839912A8892}
+	EndGlobalSection
+EndGlobal
