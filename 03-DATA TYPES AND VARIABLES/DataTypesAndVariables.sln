@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Convert Meters to Kilometers", "01 Convert Meters to Kilometers\01 Convert Meters to Kilometers.csproj", "{ACB58AFC-3008-415F-87CB-D4B46F77A7D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 Convert Meters to Kilometers", "01 Convert Meters to Kilometers\01 Convert Meters to Kilometers.csproj", "{ACB58AFC-3008-415F-87CB-D4B46F77A7D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Pounds to Dollars", "02 Pounds to Dollars\02 Pounds to Dollars.csproj", "{E60C6562-0BD7-45DE-BEB0-32636C28C82C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 Pounds to Dollars", "02 Pounds to Dollars\02 Pounds to Dollars.csproj", "{E60C6562-0BD7-45DE-BEB0-32636C28C82C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Exact Sum of Real Numbers", "03 Exact Sum of Real Numbers\03 Exact Sum of Real Numbers.csproj", "{D19A7C9C-48F1-4968-980D-CDF12401773D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 Exact Sum of Real Numbers", "03 Exact Sum of Real Numbers\03 Exact Sum of Real Numbers.csproj", "{D19A7C9C-48F1-4968-980D-CDF12401773D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Centuries to Minutes", "04 Centuries to Minutes\04 Centuries to Minutes.csproj", "{A010C859-0B61-411A-9983-932577D03DB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 Centuries to Minutes", "04 Centuries to Minutes\04 Centuries to Minutes.csproj", "{A010C859-0B61-411A-9983-932577D03DB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Special Numbers", "05 Special Numbers\05 Special Numbers.csproj", "{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 Special Numbers", "05 Special Numbers\05 Special Numbers.csproj", "{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Reversed Chars", "06 Reversed Chars\06 Reversed Chars.csproj", "{0F3560AC-451B-497C-B3FE-D5C6CA1BB2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Concat Names", "07 Concat Names\07 Concat Names.csproj", "{036495D5-1FAA-4D65-9797-9A4AB4B1B139}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6E52A1F-9EFE-4CA3-A674-21E85D82B952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3560AC-451B-497C-B3FE-D5C6CA1BB2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3560AC-451B-497C-B3FE-D5C6CA1BB2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3560AC-451B-497C-B3FE-D5C6CA1BB2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3560AC-451B-497C-B3FE-D5C6CA1BB2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036495D5-1FAA-4D65-9797-9A4AB4B1B139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036495D5-1FAA-4D65-9797-9A4AB4B1B139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036495D5-1FAA-4D65-9797-9A4AB4B1B139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036495D5-1FAA-4D65-9797-9A4AB4B1B139}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
