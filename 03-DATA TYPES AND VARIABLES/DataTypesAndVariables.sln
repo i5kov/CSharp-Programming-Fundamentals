@@ -17,33 +17,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 Reversed Chars", "06 Rev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 Concat Names", "07 Concat Names\07 Concat Names.csproj", "{036495D5-1FAA-4D65-9797-9A4AB4B1B139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 01 Integer Operations", "Exercise 01 Integer Operations\Exercise 01 Integer Operations.csproj", "{46906E85-C451-4FBB-983B-E3E3D72762F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 01 Integer Operations", "Exercise 01 Integer Operations\Exercise 01 Integer Operations.csproj", "{46906E85-C451-4FBB-983B-E3E3D72762F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 02 Sum Digits", "02 Sum Digits\Exercise 02 Sum Digits.csproj", "{7A110938-CDB5-4B45-8E10-AF37DCDD91B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 03 Elevator", "Exercise 03 Elevator\Exercise 03 Elevator.csproj", "{40DF7A1B-9B1F-4943-BEA4-4EB2B20C31C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 03 Elevator", "Exercise 03 Elevator\Exercise 03 Elevator.csproj", "{40DF7A1B-9B1F-4943-BEA4-4EB2B20C31C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 04 Sum Of Chars", "Exercise 04 Sum Of Chars\Exercise 04 Sum Of Chars.csproj", "{967AF62A-3623-4EA5-9303-71575C275482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 04 Sum Of Chars", "Exercise 04 Sum Of Chars\Exercise 04 Sum Of Chars.csproj", "{967AF62A-3623-4EA5-9303-71575C275482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 05 Print Part Of ASCII Table", "Exercise 05 Print Part Of ASCII Table\Exercise 05 Print Part Of ASCII Table.csproj", "{3C1C8086-886F-4B27-B3F2-9198F31362E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 05 Print Part Of ASCII Table", "Exercise 05 Print Part Of ASCII Table\Exercise 05 Print Part Of ASCII Table.csproj", "{3C1C8086-886F-4B27-B3F2-9198F31362E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 06 Triples of Latin Letters", "Exercise 06 Triples of Latin Letters\Exercise 06 Triples of Latin Letters.csproj", "{0907776F-78FA-4569-9B45-73D81C796956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 06 Triples of Latin Letters", "Exercise 06 Triples of Latin Letters\Exercise 06 Triples of Latin Letters.csproj", "{0907776F-78FA-4569-9B45-73D81C796956}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 07 Water Overflow", "Exercise 07 Water Overflow\Exercise 07 Water Overflow.csproj", "{DA74F6DF-0536-4EBE-B376-E4C958977D2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 07 Water Overflow", "Exercise 07 Water Overflow\Exercise 07 Water Overflow.csproj", "{DA74F6DF-0536-4EBE-B376-E4C958977D2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 08 Beer Kegs", "Exercise 08 Beer Kegs\Exercise 08 Beer Kegs.csproj", "{9549F519-342D-4E6C-A8FC-045A27491E08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08 Town Info", "08 Town Info\08 Town Info.csproj", "{BBC78253-8E6B-4150-BF20-F775447C0A68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 11 Snowballs", "Exercise 11 Snowballs\Exercise 11 Snowballs.csproj", "{8D6E538A-0832-4E2D-B124-33F7A1740C88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09 Chars to String", "09 Chars to String\09 Chars to String.csproj", "{14E279AF-AC9B-496D-8517-810978CED954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 Town Info", "08 Town Info\08 Town Info.csproj", "{BBC78253-8E6B-4150-BF20-F775447C0A68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 Lower or Upper", "10 Lower or Upper\10 Lower or Upper.csproj", "{E6CDC2E5-3EAD-44A0-A2E3-074004316615}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 Chars to String", "09 Chars to String\09 Chars to String.csproj", "{14E279AF-AC9B-496D-8517-810978CED954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 Refactor Volume of Pyramid", "11 Refactor Volume of Pyramid\11 Refactor Volume of Pyramid.csproj", "{2B4A3F7D-78E4-4AD0-814E-CE9F8EAA625B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Lower or Upper", "10 Lower or Upper\10 Lower or Upper.csproj", "{E6CDC2E5-3EAD-44A0-A2E3-074004316615}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 Refactor Special Numbers", "12 Refactor Special Numbers\12 Refactor Special Numbers.csproj", "{D2583538-B25D-48B4-88C4-B718E63BA49A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Refactor Volume of Pyramid", "11 Refactor Volume of Pyramid\11 Refactor Volume of Pyramid.csproj", "{2B4A3F7D-78E4-4AD0-814E-CE9F8EAA625B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 08 Beer Kegs", "Exercise 08 Beer Kegs\Exercise 08 Beer Kegs.csproj", "{E13FD18A-3F11-4465-A9EB-DC85876BC528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 Refactor Special Numbers", "12 Refactor Special Numbers\12 Refactor Special Numbers.csproj", "{D2583538-B25D-48B4-88C4-B718E63BA49A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 09 Spice Must Flow", "Exercise 09 Spice Must Flow\Exercise 09 Spice Must Flow.csproj", "{CFE5E755-6E51-4B6B-A906-8EBDA5087025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 10 Poke Mon", "Exercise 10 Poke Mon\Exercise 10 Poke Mon.csproj", "{A4FA0FD3-32B9-48FD-A93C-6F747DD83079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 11 Snowballs", "Exercise 11 Snowballs\Exercise 11 Snowballs.csproj", "{6944F06E-B609-49FC-81C1-D9E3A751A7B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,14 +111,6 @@ Global
 		{DA74F6DF-0536-4EBE-B376-E4C958977D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA74F6DF-0536-4EBE-B376-E4C958977D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA74F6DF-0536-4EBE-B376-E4C958977D2B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9549F519-342D-4E6C-A8FC-045A27491E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9549F519-342D-4E6C-A8FC-045A27491E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9549F519-342D-4E6C-A8FC-045A27491E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9549F519-342D-4E6C-A8FC-045A27491E08}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D6E538A-0832-4E2D-B124-33F7A1740C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D6E538A-0832-4E2D-B124-33F7A1740C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D6E538A-0832-4E2D-B124-33F7A1740C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D6E538A-0832-4E2D-B124-33F7A1740C88}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BBC78253-8E6B-4150-BF20-F775447C0A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BBC78253-8E6B-4150-BF20-F775447C0A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBC78253-8E6B-4150-BF20-F775447C0A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -135,6 +131,22 @@ Global
 		{D2583538-B25D-48B4-88C4-B718E63BA49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2583538-B25D-48B4-88C4-B718E63BA49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2583538-B25D-48B4-88C4-B718E63BA49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13FD18A-3F11-4465-A9EB-DC85876BC528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13FD18A-3F11-4465-A9EB-DC85876BC528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13FD18A-3F11-4465-A9EB-DC85876BC528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13FD18A-3F11-4465-A9EB-DC85876BC528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE5E755-6E51-4B6B-A906-8EBDA5087025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE5E755-6E51-4B6B-A906-8EBDA5087025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE5E755-6E51-4B6B-A906-8EBDA5087025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE5E755-6E51-4B6B-A906-8EBDA5087025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FA0FD3-32B9-48FD-A93C-6F747DD83079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FA0FD3-32B9-48FD-A93C-6F747DD83079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FA0FD3-32B9-48FD-A93C-6F747DD83079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FA0FD3-32B9-48FD-A93C-6F747DD83079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6944F06E-B609-49FC-81C1-D9E3A751A7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6944F06E-B609-49FC-81C1-D9E3A751A7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6944F06E-B609-49FC-81C1-D9E3A751A7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6944F06E-B609-49FC-81C1-D9E3A751A7B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
