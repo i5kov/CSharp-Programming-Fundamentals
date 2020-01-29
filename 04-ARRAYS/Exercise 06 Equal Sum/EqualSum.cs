@@ -1,11 +1,51 @@
 ﻿using System;
+using System.Linq;
 
 class EqualSum
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        int[] numbers = { 10, 5, 5, 99, 3, 4, 2, 5, 1, 1, 4 };
+        int[] numArray = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-        Console.WriteLine(numbers[numbers.Length / 2]);
+        if (numArray.Length == 1)
+        {
+            Console.WriteLine("0"); 
+            return;
+        }
+
+        int leftSum = 0;
+        int rightSum = 0;
+        bool found = false;
+
+        for (int pos = 0; pos < numArray.Length; pos++) 
+        {
+            
+            for (int L = 0; L < pos; L++)
+            {
+                leftSum += numArray[L];
+            }
+            
+            for (int R = pos + 1; R < numArray.Length; R++)
+            {
+                rightSum += numArray[R];
+            }
+
+            
+            if (leftSum == rightSum)
+            {
+                Console.WriteLine(pos);
+                found = true;
+            }
+            else
+            {
+                leftSum = 0;
+                rightSum = 0;
+            }
+        }
+
+        if (found == false)
+        {
+            Console.WriteLine("no");
+        }
     }
 }
