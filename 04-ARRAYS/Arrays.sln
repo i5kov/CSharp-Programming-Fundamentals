@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 07 Max Sequence of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 08 Magic Sum", "Exercise 08 Magic Sum\Exercise 08 Magic Sum.csproj", "{8120B970-C00C-40CB-A616-18C626DC1AD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 09 Kamino Factory", "Exercise 09 Kamino Factory\Exercise 09 Kamino Factory.csproj", "{DF8A8B3D-9325-4081-8C0C-2237B2D1F7F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{8120B970-C00C-40CB-A616-18C626DC1AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8120B970-C00C-40CB-A616-18C626DC1AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8120B970-C00C-40CB-A616-18C626DC1AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8A8B3D-9325-4081-8C0C-2237B2D1F7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8A8B3D-9325-4081-8C0C-2237B2D1F7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8A8B3D-9325-4081-8C0C-2237B2D1F7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8A8B3D-9325-4081-8C0C-2237B2D1F7F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
