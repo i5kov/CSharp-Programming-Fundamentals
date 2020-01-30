@@ -19,21 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 Equal Arrays", "07 Equal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08 Condense Array to Number", "08 Condense Array to Number\08 Condense Array to Number.csproj", "{A5820DB5-65A3-4D62-8084-E1132F024C0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 01 Train", "Exercise 01 Train\Exercise 01 Train.csproj", "{6248A541-397F-4E24-B3D7-8690B562187E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 01 Train", "Exercise 01 Train\Exercise 01 Train.csproj", "{6248A541-397F-4E24-B3D7-8690B562187E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 02 Common Elements", "Exercise 02 Common Elements\Exercise 02 Common Elements.csproj", "{186B3CA4-62F8-43EC-8904-E48D77B7696C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 02 Common Elements", "Exercise 02 Common Elements\Exercise 02 Common Elements.csproj", "{186B3CA4-62F8-43EC-8904-E48D77B7696C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 03 Zig-Zag Arrays", "Exercise 03 Zig-Zag Arrays\Exercise 03 Zig-Zag Arrays.csproj", "{D9358358-3D74-49A2-B871-3F13FDB06BC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 03 Zig-Zag Arrays", "Exercise 03 Zig-Zag Arrays\Exercise 03 Zig-Zag Arrays.csproj", "{D9358358-3D74-49A2-B871-3F13FDB06BC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 04 Array Rotation", "Exercise 04 Array Rotation\Exercise 04 Array Rotation.csproj", "{643729B5-0C24-4BB4-B508-40DC87382BF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 04 Array Rotation", "Exercise 04 Array Rotation\Exercise 04 Array Rotation.csproj", "{643729B5-0C24-4BB4-B508-40DC87382BF8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 05 Top Integers", "05 Top Integers\Exercise 05 Top Integers.csproj", "{3E0908A2-1A81-4D1B-B608-29E927DAE0A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 06 Equal Sum", "Exercise 06 Equal Sum\Exercise 06 Equal Sum.csproj", "{807560EC-CC1B-4608-9492-CA182E1F334F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 06 Equal Sum", "Exercise 06 Equal Sum\Exercise 06 Equal Sum.csproj", "{807560EC-CC1B-4608-9492-CA182E1F334F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 07 Max Sequence of Equal Elements", "Exercise 07 Max Sequence of Equal Elements\Exercise 07 Max Sequence of Equal Elements.csproj", "{DC479AD4-8D7E-4397-AC33-9C3EF53AED06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 07 Max Sequence of Equal Elements", "Exercise 07 Max Sequence of Equal Elements\Exercise 07 Max Sequence of Equal Elements.csproj", "{DC479AD4-8D7E-4397-AC33-9C3EF53AED06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 08 Magic Sum", "Exercise 08 Magic Sum\Exercise 08 Magic Sum.csproj", "{8120B970-C00C-40CB-A616-18C626DC1AD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 08 Magic Sum", "Exercise 08 Magic Sum\Exercise 08 Magic Sum.csproj", "{8120B970-C00C-40CB-A616-18C626DC1AD0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 09 Kamino Factory", "Exercise 09 Kamino Factory\Exercise 09 Kamino Factory.csproj", "{DF8A8B3D-9325-4081-8C0C-2237B2D1F7F6}"
 EndProject
