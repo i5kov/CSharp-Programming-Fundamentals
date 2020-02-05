@@ -4,14 +4,19 @@ class Program
 {
     static void Main()
     {
-        double number = double.Parse(Console.ReadLine());
+        decimal number = decimal.Parse(Console.ReadLine());
         int power = int.Parse(Console.ReadLine());
-        double result = RaiseToPower(number, power);
+        decimal result = RaiseToPower(number, power);
         Console.WriteLine(result);
     }
 
-    private static double RaiseToPower(double number, int power)
+    private static decimal RaiseToPower(decimal number, int power)
     {
-        return Math.Pow(number, power);
+        decimal result = 1M;
+        for (int i = 1; i <= power; i++)
+        {
+            result *= number;
+        }
+        return result;
     }
 }
