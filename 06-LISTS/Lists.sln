@@ -13,11 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 List of Products", "04 L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 Remove Negatives and Reverse", "05 Remove Negatives and Reverse\05 Remove Negatives and Reverse.csproj", "{BE48BA01-10E9-47AE-B906-F9B7B7A62C98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 List Manipulation Basics", "06 List Manipulation Basics\06 List Manipulation Basics.csproj", "{1F58630D-6EA6-41E0-BAF6-EAE2D07BE870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 List Manipulation Basics", "06 List Manipulation Basics\06 List Manipulation Basics.csproj", "{1F58630D-6EA6-41E0-BAF6-EAE2D07BE870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 List Manipulation Advanced", "07 List Manipulation Advanced\07 List Manipulation Advanced.csproj", "{F8AEE602-8D06-4D58-8031-91DCBD6E0752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 List Manipulation Advanced", "07 List Manipulation Advanced\07 List Manipulation Advanced.csproj", "{F8AEE602-8D06-4D58-8031-91DCBD6E0752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 01 Train", "Exercise 01 Train\Exercise 01 Train.csproj", "{E89823DE-3EF3-4C63-84BD-555741F436C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 01 Train", "Exercise 01 Train\Exercise 01 Train.csproj", "{E89823DE-3EF3-4C63-84BD-555741F436C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 02 Change List", "Exercise 02 Change List\Exercise 02 Change List.csproj", "{7F0B0855-0E08-436E-929F-9E8FD10FE6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 03 House Party", "Exercise 03 House Party\Exercise 03 House Party.csproj", "{6EF759CA-CABA-480A-AC28-347DDD7E9FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 04 List Operations", "Exercise 04 List Operations\Exercise 04 List Operations.csproj", "{2207786F-9E8B-4081-838E-C6D0C1A0C4A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 05 Bomb Numbers", "Exercise 05 Bomb Numbers\Exercise 05 Bomb Numbers.csproj", "{9A84167D-3B88-4D02-869E-3155F1C0AE2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{E89823DE-3EF3-4C63-84BD-555741F436C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E89823DE-3EF3-4C63-84BD-555741F436C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E89823DE-3EF3-4C63-84BD-555741F436C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0B0855-0E08-436E-929F-9E8FD10FE6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0B0855-0E08-436E-929F-9E8FD10FE6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0B0855-0E08-436E-929F-9E8FD10FE6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0B0855-0E08-436E-929F-9E8FD10FE6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF759CA-CABA-480A-AC28-347DDD7E9FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF759CA-CABA-480A-AC28-347DDD7E9FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF759CA-CABA-480A-AC28-347DDD7E9FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF759CA-CABA-480A-AC28-347DDD7E9FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2207786F-9E8B-4081-838E-C6D0C1A0C4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2207786F-9E8B-4081-838E-C6D0C1A0C4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2207786F-9E8B-4081-838E-C6D0C1A0C4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2207786F-9E8B-4081-838E-C6D0C1A0C4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A84167D-3B88-4D02-869E-3155F1C0AE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A84167D-3B88-4D02-869E-3155F1C0AE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A84167D-3B88-4D02-869E-3155F1C0AE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A84167D-3B88-4D02-869E-3155F1C0AE2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
