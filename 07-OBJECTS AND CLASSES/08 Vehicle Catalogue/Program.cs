@@ -41,7 +41,7 @@ class Program
         vehicleCatalogue.Trucks
             .OrderBy(x => x.Brand)
             .ToList()
-            .ForEach(x => Console.WriteLine($"{x.Brand}: {x.Model} - {x.Weight}hp"));
+            .ForEach(x => Console.WriteLine($"{x.Brand}: {x.Model} - {x.Weight}kg"));
     }
 
     class Truck
