@@ -8,9 +8,8 @@ class Program
         int numberOfCommands = int.Parse(Console.ReadLine());
         Article myArticle = new Article(article[0], article[1], article[2]);
 
-        for (int i = 0; i < 3; i++)
+        for (int i = 0; i < numberOfCommands; i++)
         {
-
             string[] command = Console.ReadLine().Split(": ");
             string operation = command[0].ToLower();
             string text = command[1];
@@ -48,17 +47,17 @@ class Program
 
         public void Edit(string content)
         {
-            this.Content = content;
+            Content = content;
         }
 
         public void ChangeAuthor(string author)
         {
-            this.Author = author;
+            Author = author;
         }
 
         public void Rename(string title)
         {
-            this.Title = title;
+            Title = title;
         }
 
         public override string ToString()
