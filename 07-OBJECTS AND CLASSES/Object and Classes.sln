@@ -9,19 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 Randomize Words", "02 Ra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 Big Factorial", "03 Big Factorial\03 Big Factorial.csproj", "{70F58126-077B-4E97-B98E-97232B574831}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Songs", "04 Songs\04 Songs.csproj", "{EA536CE1-5064-4CB1-B187-FE1A4A668C0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 Songs", "04 Songs\04 Songs.csproj", "{EA536CE1-5064-4CB1-B187-FE1A4A668C0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Students", "05 Students\05 Students.csproj", "{7D1D051F-EABD-4F88-934C-75EAA1CC6989}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 Students", "05 Students\05 Students.csproj", "{7D1D051F-EABD-4F88-934C-75EAA1CC6989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Students V2.0", "06 Students V2.0\06 Students V2.0.csproj", "{23C10480-72D2-4FD9-B6C9-D78EF4FDC6E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 Students V2.0", "06 Students V2.0\06 Students V2.0.csproj", "{23C10480-72D2-4FD9-B6C9-D78EF4FDC6E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Store Boxes", "07 Store Boxes\07 Store Boxes.csproj", "{6932992F-C6BD-4CE2-B16C-40FAFD92122D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 Store Boxes", "07 Store Boxes\07 Store Boxes.csproj", "{6932992F-C6BD-4CE2-B16C-40FAFD92122D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 Vehicle Catalogue", "08 Vehicle Catalogue\08 Vehicle Catalogue.csproj", "{9F2823C4-EDBD-4D0C-9F6C-00F441929E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08 Vehicle Catalogue", "08 Vehicle Catalogue\08 Vehicle Catalogue.csproj", "{9F2823C4-EDBD-4D0C-9F6C-00F441929E8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 01 Advertisement Message", "Exercise 01 Advertisement Message\Exercise 01 Advertisement Message.csproj", "{6D4A5DEF-49B0-4DC3-B6C6-DB92839B47F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 01 Advertisement Message", "Exercise 01 Advertisement Message\Exercise 01 Advertisement Message.csproj", "{6D4A5DEF-49B0-4DC3-B6C6-DB92839B47F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 02 Articles", "Exercise 02 Articles\Exercise 02 Articles.csproj", "{985C336B-5E9A-45B7-B7C2-A67732B4604A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 02 Articles", "Exercise 02 Articles\Exercise 02 Articles.csproj", "{985C336B-5E9A-45B7-B7C2-A67732B4604A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 03 Articles V2.0", "Exercise 03 Articles V2.0\Exercise 03 Articles V2.0.csproj", "{73719F1E-1C3A-4FEF-BFA2-006B9FA67504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 04 Students", "Exercise 04 Students\Exercise 04 Students.csproj", "{B12AA908-B82C-4C2F-BFED-3F518239DFE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{985C336B-5E9A-45B7-B7C2-A67732B4604A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{985C336B-5E9A-45B7-B7C2-A67732B4604A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{985C336B-5E9A-45B7-B7C2-A67732B4604A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73719F1E-1C3A-4FEF-BFA2-006B9FA67504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73719F1E-1C3A-4FEF-BFA2-006B9FA67504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73719F1E-1C3A-4FEF-BFA2-006B9FA67504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73719F1E-1C3A-4FEF-BFA2-006B9FA67504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12AA908-B82C-4C2F-BFED-3F518239DFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12AA908-B82C-4C2F-BFED-3F518239DFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12AA908-B82C-4C2F-BFED-3F518239DFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12AA908-B82C-4C2F-BFED-3F518239DFE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
