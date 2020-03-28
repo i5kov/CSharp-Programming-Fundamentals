@@ -27,7 +27,11 @@ class Program
                 char c = char.Parse(split[2]);
                 if (index >= 0 && index <= skill.Length)
                 {
-                    skill = skill.Replace(skill[index], c);
+                    char[] temp = skill.ToCharArray();
+                    temp[index] = c;
+
+                    skill = new string(temp);
+
                     Console.WriteLine("Success!");
                 }
                 else
