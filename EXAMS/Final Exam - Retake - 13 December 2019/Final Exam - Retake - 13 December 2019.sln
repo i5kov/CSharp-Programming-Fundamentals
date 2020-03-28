@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warrior’s Quest", "Warrior’s Quest\Warrior’s Quest.csproj", "{A954A7A9-70B5-48FD-92BA-B2E42205B5B6}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boss Rush", "Boss Rush\Boss Rush.csproj", "{A21C1DEB-7E0B-4FB3-A43E-8AD0E68D87B9}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hero Recruitment", "Hero Recruitment\Hero Recruitment.csproj", "{F4153D9C-6B7A-451A-83BA-3A12940C2881}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Warrior's Quest", "01. Warrior's Quest\01. Warrior's Quest.csproj", "{09080265-D8E9-4654-8511-DFCF2D5460A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Boss Rush", "02. Boss Rush\02. Boss Rush.csproj", "{5021F07D-CACE-498B-BCFA-002ED0650E63}"
@@ -21,18 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A954A7A9-70B5-48FD-92BA-B2E42205B5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A954A7A9-70B5-48FD-92BA-B2E42205B5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A954A7A9-70B5-48FD-92BA-B2E42205B5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A954A7A9-70B5-48FD-92BA-B2E42205B5B6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A21C1DEB-7E0B-4FB3-A43E-8AD0E68D87B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A21C1DEB-7E0B-4FB3-A43E-8AD0E68D87B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A21C1DEB-7E0B-4FB3-A43E-8AD0E68D87B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A21C1DEB-7E0B-4FB3-A43E-8AD0E68D87B9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F4153D9C-6B7A-451A-83BA-3A12940C2881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4153D9C-6B7A-451A-83BA-3A12940C2881}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4153D9C-6B7A-451A-83BA-3A12940C2881}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4153D9C-6B7A-451A-83BA-3A12940C2881}.Release|Any CPU.Build.0 = Release|Any CPU
 		{09080265-D8E9-4654-8511-DFCF2D5460A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{09080265-D8E9-4654-8511-DFCF2D5460A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09080265-D8E9-4654-8511-DFCF2D5460A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
