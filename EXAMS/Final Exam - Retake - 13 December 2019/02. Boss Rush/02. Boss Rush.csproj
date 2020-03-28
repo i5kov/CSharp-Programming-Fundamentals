@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Hero_Recruitment</RootNamespace>
+    <RootNamespace>_02._Boss_Rush</RootNamespace>
   </PropertyGroup>
 
 </Project>
