@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Inbox_Manager</RootNamespace>
+    <RootNamespace>_02._Registration</RootNamespace>
   </PropertyGroup>
 
 </Project>
